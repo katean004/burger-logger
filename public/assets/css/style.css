@@ -31,18 +31,17 @@ li {
     width: 150px;
   }
 
-  .uneaten {
-    width: 30%;
-    float: left;
-    /* padding-left: 20px; */
+.uneaten { 
+  margin-right: 250px;
   }
 
-  .eaten {
-    width: 30%;
-    float: left;
-    /* margin: 10px, 0, 10px, 0; */
-  }
-
+.eaten { 
+  margin-left: 5px;
+}
+.wrapper{
+  display: flex;
+  justify-content: center;
+}
   .addBurger {
     width: 50%;
   }
