@@ -20,7 +20,7 @@ Install node, handlebars, express, mysql npms before usage.
 In the terminal of the server, run "node server.js" or "npm start" and note any errors.
 
 ## Usage
-Run "npm start" in the terminal and answer prompted questions. Refer to walkthrough video.
+Run "npm start" in the terminal and go to localhost: 8080 or Heroku to utilize web page.
 
 ## License
 MIT License
