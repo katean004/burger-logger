@@ -1,7 +1,7 @@
 li {
     padding: 5px;
     margin: 5px;
-    background: #faebd7;
+    background: rgb(255, 199, 131);
   }
   
   .label {
@@ -18,3 +18,41 @@ li {
     margin-bottom: 5px;
   }
   
+  body {
+    background-color: rgb(255, 199, 131);
+  }
+
+  /* .img {
+    width: 50%;
+  } */
+
+  .burgerImg {
+    height: 140px;
+    width: 150px;
+  }
+
+  .uneaten {
+    width: 30%;
+    float: left;
+    /* padding-left: 20px; */
+  }
+
+  .eaten {
+    width: 30%;
+    float: left;
+    /* margin: 10px, 0, 10px, 0; */
+  }
+
+  .addBurger {
+    width: 50%;
+  }
+
+  .clear {
+    clear: both;
+  }
+
+  .center {
+    margin: auto;
+    padding: 10px;
+    width: 48%;
+  }
