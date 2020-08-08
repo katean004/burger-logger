@@ -1,9 +1,8 @@
 # Burger-Logger
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![](https://i.gyazo.com/9417a867eacbfc2fa40590de84803025.png)
+![](https://i.gyazo.com/74ad10e9ac90e7af74031920c2006338.png)
 
 ## Table of Contents
-  - [Walkthrough Video](#walkthrough-video)
   - [Description](#description)
   - [Installation](#installation)
   - [Test](#test)
@@ -11,11 +10,8 @@
   - [License](#license)
 
 
-## Walkthrough Video
-- https://drive.google.com/file/d/1k_PdSfMDnnxgt3ILmzccXH8BdugeJUvZ/view
-
 ## Description
-A burger logger tha tuses MYSQL, Node, Express, Handlebars and ORM to generate user input on html and allows user interaction. 
+A burger logger that uses MYSQL, Node, Express, Handlebars and ORM to generate user input on html and allows user interaction. 
 
 ## Installation 
 Install node, handlebars, express, mysql npms before usage. 
